@@ -6,3 +6,5 @@ Simple Image Generator For Perception Module
 
 - Add quadrilaterals ( trapazoid ) (specifc)
 - Add triangle (variation) (specifc)
+
+- Shape + Location, Only Shape
