@@ -1,10 +1,12 @@
 
 import random
 
-shapes = ["square", "line", "rectangle", "triangle", "hexagon", "pentagon", "circle"]
+shapes = ["parallelogram", "rectangle", "trapezoid", "square"]
 colors = ["orange", "yellow", "green", "blue", "purple", "red", "black", "pink", "brown"]
 directionsUp = ["bottom", "top"]
 directionsSide = ["left", "right"]
+
+
 numbers = 4
 amountToGenerate = 100
 lines = []
@@ -33,12 +35,12 @@ for i in range(amountToGenerate):
     linesGen.append(textGen)
     lines.append(text)
 
-with open('GeneratedFiles/generated.txt', 'w') as f:
+with open('GeneratedFiles/generated-quad-shape-direction-color.txt', 'w') as f:
     for line in lines:
         f.write(line)
         f.write('\n')
 
-with open('GeneratedFiles/generated_gen.txt', 'w') as f:
+with open('GeneratedFiles/generated_gen-quad-shape-direction-color.txt', 'w') as f:
     for line in linesGen:
         f.write(line)
         f.write('\n')
