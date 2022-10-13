@@ -14,9 +14,9 @@ for i in range(amountToGenerate):
     text = ""
     textGen = ""
     if (shapes[shapesR] == "isosceles triangle" or shapes[shapesR] == "equilateral triangle"):
-        text += "an " + shapes[shapesR] + "."
+        text += "an " + shapes[shapesR]
     else:
-        text += "a " + shapes[shapesR] + "."
+        text += "a " + shapes[shapesR]
     textGen += shapes[shapesR]
             
     linesGen.append(textGen)

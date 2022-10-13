@@ -1,100 +1,100 @@
-pink,equilateral triangle,top,right/black,equilateral triangle,top,right/purple,isosceles triangle,bottom,right
-pink,equilateral triangle,bottom,left/red,triangle,bottom,left/black,triangle,bottom,right
-green,equilateral triangle,bottom,right
-black,triangle,top,right/pink,equilateral triangle,top,left/pink,isosceles triangle,bottom,right
-orange,triangle,bottom,left
-yellow,isosceles triangle,top,right
-green,isosceles triangle,top,right
-red,equilateral triangle,bottom,right/brown,triangle,bottom,left/green,equilateral triangle,bottom,right
-yellow,equilateral triangle,bottom,right
-purple,isosceles triangle,top,right/brown,triangle,bottom,left/yellow,triangle,bottom,right
-orange,isosceles triangle,bottom,left/pink,isosceles triangle,bottom,left/purple,equilateral triangle,bottom,left/green,triangle,bottom,left
-orange,equilateral triangle,bottom,right
-red,equilateral triangle,top,left/red,equilateral triangle,top,left
-blue,isosceles triangle,bottom,right/orange,isosceles triangle,top,right
-green,isosceles triangle,bottom,right
-orange,isosceles triangle,bottom,left/blue,equilateral triangle,top,left/brown,equilateral triangle,top,right/purple,equilateral triangle,top,left
-red,equilateral triangle,bottom,right/brown,equilateral triangle,top,left/brown,isosceles triangle,bottom,right/yellow,triangle,top,left
-blue,triangle,top,right
-black,isosceles triangle,bottom,left/brown,isosceles triangle,top,right
-purple,isosceles triangle,bottom,left/black,isosceles triangle,bottom,right/black,equilateral triangle,bottom,right/pink,equilateral triangle,top,right
-green,triangle,bottom,right/red,isosceles triangle,bottom,right/brown,equilateral triangle,top,left/purple,isosceles triangle,top,left
-black,isosceles triangle,bottom,left
-pink,equilateral triangle,top,left/black,triangle,top,right/pink,triangle,top,right
-brown,isosceles triangle,top,left
-yellow,isosceles triangle,bottom,right/green,isosceles triangle,top,right/brown,triangle,bottom,left
-blue,triangle,bottom,left
-black,isosceles triangle,top,right/black,isosceles triangle,bottom,left/black,equilateral triangle,top,left/purple,triangle,top,left
-yellow,isosceles triangle,bottom,left/black,triangle,top,right/green,equilateral triangle,bottom,left
-green,triangle,bottom,right
-green,isosceles triangle,bottom,right/red,triangle,top,left/purple,equilateral triangle,bottom,left
-yellow,isosceles triangle,top,left/blue,isosceles triangle,top,right
-orange,isosceles triangle,top,right/blue,triangle,top,left
-red,triangle,top,right/red,equilateral triangle,bottom,right/brown,equilateral triangle,bottom,right
-red,triangle,bottom,left/blue,isosceles triangle,top,right/orange,isosceles triangle,top,left
-red,isosceles triangle,top,left/pink,triangle,bottom,right/purple,equilateral triangle,top,left/brown,isosceles triangle,bottom,left
-black,equilateral triangle,bottom,right/yellow,isosceles triangle,bottom,right
-purple,equilateral triangle,bottom,right
-blue,equilateral triangle,top,right/orange,triangle,bottom,right/red,equilateral triangle,top,right
-orange,equilateral triangle,bottom,right/orange,triangle,bottom,left
+pink,triangle,top,right/pink,triangle,top,left/green,triangle,top,right
+yellow,triangle,bottom,left
+blue,triangle,bottom,right/red,isosceles triangle,bottom,right/brown,equilateral triangle,bottom,left/yellow,equilateral triangle,top,left
+brown,triangle,bottom,right/blue,isosceles triangle,bottom,left/pink,triangle,top,left/orange,isosceles triangle,bottom,left
+brown,equilateral triangle,bottom,right/purple,equilateral triangle,top,left/blue,equilateral triangle,bottom,right/brown,isosceles triangle,top,right
+black,isosceles triangle,bottom,right/red,equilateral triangle,top,right/pink,isosceles triangle,bottom,right
+red,triangle,top,left/red,isosceles triangle,bottom,left/purple,isosceles triangle,bottom,right
+blue,triangle,bottom,right/brown,equilateral triangle,bottom,left
+yellow,triangle,bottom,right/brown,equilateral triangle,top,left
+black,triangle,bottom,right
+purple,isosceles triangle,bottom,right
+yellow,equilateral triangle,top,left/orange,equilateral triangle,top,left/black,triangle,top,left/brown,isosceles triangle,top,right
+red,triangle,bottom,right
+green,isosceles triangle,top,right/blue,equilateral triangle,top,left/black,equilateral triangle,top,right/red,triangle,top,left
+pink,equilateral triangle,top,right/blue,triangle,bottom,left/green,isosceles triangle,bottom,right
+pink,isosceles triangle,top,left/orange,equilateral triangle,top,left/pink,triangle,top,right/red,isosceles triangle,bottom,right
+purple,equilateral triangle,top,right
+pink,triangle,top,right/orange,isosceles triangle,bottom,right/purple,isosceles triangle,top,right/yellow,triangle,top,left
+orange,triangle,bottom,right/yellow,isosceles triangle,bottom,right/brown,isosceles triangle,top,right
+pink,triangle,top,left/pink,isosceles triangle,bottom,right/black,isosceles triangle,bottom,left/purple,triangle,top,left
+orange,equilateral triangle,top,right/blue,triangle,bottom,left
+brown,isosceles triangle,bottom,left/red,isosceles triangle,top,right/orange,equilateral triangle,top,right/yellow,isosceles triangle,bottom,right
+blue,isosceles triangle,bottom,left/blue,triangle,bottom,right/brown,equilateral triangle,bottom,left
+brown,isosceles triangle,top,left/brown,equilateral triangle,top,left/black,equilateral triangle,bottom,right
+orange,equilateral triangle,top,right
+yellow,isosceles triangle,top,left/purple,triangle,bottom,left
+green,equilateral triangle,top,right
+green,isosceles triangle,bottom,right/blue,isosceles triangle,top,right/yellow,isosceles triangle,bottom,left
+blue,isosceles triangle,bottom,right/yellow,equilateral triangle,bottom,right/yellow,isosceles triangle,bottom,left/black,isosceles triangle,top,left
+yellow,equilateral triangle,top,left/yellow,equilateral triangle,top,right
+purple,isosceles triangle,bottom,left/yellow,equilateral triangle,bottom,right/blue,equilateral triangle,bottom,left
+blue,isosceles triangle,bottom,left/yellow,triangle,top,left/yellow,equilateral triangle,top,right
+red,isosceles triangle,top,right
+orange,triangle,bottom,right/pink,triangle,top,left
+pink,isosceles triangle,bottom,left
+red,equilateral triangle,bottom,left/red,equilateral triangle,bottom,left/green,triangle,bottom,right/purple,isosceles triangle,bottom,left
+red,triangle,bottom,right/blue,isosceles triangle,top,left/yellow,equilateral triangle,bottom,right
+black,triangle,bottom,right/red,triangle,top,right/purple,triangle,bottom,right
+green,triangle,top,right/orange,equilateral triangle,top,right/black,triangle,bottom,right
+blue,isosceles triangle,top,right/purple,triangle,top,right/red,isosceles triangle,top,left/pink,equilateral triangle,top,left
+purple,isosceles triangle,bottom,right/purple,triangle,top,right/orange,triangle,top,left/green,equilateral triangle,bottom,left
+pink,isosceles triangle,top,left/yellow,isosceles triangle,bottom,right/blue,isosceles triangle,bottom,right/blue,isosceles triangle,bottom,right
+brown,triangle,top,left
+green,triangle,top,left/purple,triangle,bottom,right/orange,triangle,top,left
+green,isosceles triangle,bottom,left/pink,equilateral triangle,top,right/purple,equilateral triangle,bottom,right
+red,equilateral triangle,top,right/yellow,equilateral triangle,bottom,right/orange,isosceles triangle,bottom,left
+black,triangle,top,right/green,isosceles triangle,top,right
+green,isosceles triangle,bottom,left
+red,equilateral triangle,bottom,left/purple,triangle,bottom,right/black,equilateral triangle,bottom,left/green,isosceles triangle,top,right
+green,equilateral triangle,bottom,right/brown,triangle,bottom,right/yellow,triangle,bottom,left/orange,equilateral triangle,bottom,left
+green,isosceles triangle,bottom,left
+blue,equilateral triangle,bottom,right/red,isosceles triangle,bottom,left/green,equilateral triangle,top,right/orange,equilateral triangle,top,left
+pink,equilateral triangle,top,right/orange,equilateral triangle,bottom,left
+green,isosceles triangle,top,left/purple,triangle,top,right/pink,equilateral triangle,top,left
+orange,triangle,bottom,right/purple,equilateral triangle,top,right
+brown,triangle,bottom,left/purple,equilateral triangle,top,right/yellow,isosceles triangle,bottom,left
+blue,equilateral triangle,bottom,right/red,isosceles triangle,bottom,right/orange,equilateral triangle,bottom,left/green,triangle,top,left
+purple,equilateral triangle,top,right/purple,equilateral triangle,top,right
 yellow,triangle,top,right
-purple,isosceles triangle,top,left/orange,isosceles triangle,bottom,right/brown,isosceles triangle,top,left/blue,equilateral triangle,top,right
-black,equilateral triangle,top,right/yellow,triangle,top,left
-pink,equilateral triangle,bottom,left/orange,equilateral triangle,bottom,right
-green,equilateral triangle,bottom,left/pink,triangle,top,left/green,isosceles triangle,top,right
-orange,triangle,top,right/yellow,equilateral triangle,top,left/green,isosceles triangle,bottom,right
+yellow,equilateral triangle,bottom,left/blue,isosceles triangle,top,right/pink,isosceles triangle,bottom,left
+black,triangle,bottom,left/blue,isosceles triangle,bottom,left
+green,equilateral triangle,bottom,left/black,equilateral triangle,bottom,left
+red,equilateral triangle,bottom,left
+black,triangle,bottom,right/yellow,isosceles triangle,bottom,left/brown,isosceles triangle,top,right
+brown,isosceles triangle,top,right/green,triangle,bottom,left/blue,triangle,top,right/yellow,triangle,top,right
+purple,triangle,bottom,right/red,isosceles triangle,bottom,left/red,triangle,bottom,right/blue,isosceles triangle,top,left
+red,isosceles triangle,top,left/blue,isosceles triangle,bottom,right/pink,equilateral triangle,bottom,right/purple,triangle,top,right
+yellow,isosceles triangle,top,left/pink,isosceles triangle,bottom,right/pink,isosceles triangle,bottom,left
+orange,isosceles triangle,bottom,right/green,equilateral triangle,bottom,right/orange,equilateral triangle,bottom,right
+purple,equilateral triangle,top,right
+green,equilateral triangle,bottom,left/orange,triangle,top,right/yellow,equilateral triangle,top,right/red,equilateral triangle,top,right
+yellow,isosceles triangle,bottom,right/blue,isosceles triangle,bottom,right
+orange,triangle,bottom,left/pink,isosceles triangle,top,right/brown,isosceles triangle,top,right/orange,triangle,bottom,left
+black,equilateral triangle,bottom,left/yellow,isosceles triangle,top,left
+orange,triangle,bottom,right/black,equilateral triangle,bottom,left/purple,equilateral triangle,top,left
+orange,equilateral triangle,top,right
+brown,equilateral triangle,top,left/pink,triangle,bottom,left/blue,triangle,top,right/orange,equilateral triangle,bottom,left
+orange,equilateral triangle,bottom,left
 orange,triangle,bottom,right
-red,isosceles triangle,top,right/orange,isosceles triangle,top,left
-brown,equilateral triangle,bottom,left
-yellow,equilateral triangle,bottom,left/blue,equilateral triangle,top,left
-brown,triangle,top,right/orange,isosceles triangle,top,right
-purple,triangle,bottom,left/orange,isosceles triangle,top,left/green,equilateral triangle,bottom,left/green,isosceles triangle,bottom,right
-brown,triangle,bottom,left
-pink,triangle,bottom,left/green,triangle,bottom,right/green,isosceles triangle,bottom,right
-green,equilateral triangle,bottom,left
-blue,triangle,top,right/black,equilateral triangle,bottom,right/purple,equilateral triangle,bottom,right
-orange,equilateral triangle,top,left/brown,isosceles triangle,top,left/pink,triangle,bottom,right
-yellow,triangle,top,right/green,triangle,bottom,left
-orange,triangle,bottom,left/orange,equilateral triangle,top,left
-purple,triangle,top,right/brown,isosceles triangle,top,left/brown,equilateral triangle,bottom,right/green,equilateral triangle,bottom,right
-black,isosceles triangle,bottom,right/blue,equilateral triangle,top,right/purple,equilateral triangle,top,left/purple,isosceles triangle,top,left
-blue,equilateral triangle,top,right/red,equilateral triangle,top,left/black,isosceles triangle,bottom,left
-brown,isosceles triangle,top,right/green,triangle,bottom,left/purple,isosceles triangle,top,right/orange,triangle,top,left
-purple,equilateral triangle,top,left
-yellow,isosceles triangle,top,right
-purple,triangle,top,right/orange,triangle,top,left/orange,isosceles triangle,top,right
-green,triangle,bottom,right/yellow,triangle,top,right
-red,equilateral triangle,top,left
-black,isosceles triangle,bottom,right/red,isosceles triangle,bottom,right/purple,isosceles triangle,bottom,left
-brown,equilateral triangle,bottom,right/orange,triangle,bottom,right/pink,isosceles triangle,top,right
-purple,isosceles triangle,bottom,right/brown,triangle,bottom,left
-green,equilateral triangle,bottom,right/yellow,triangle,bottom,left
-blue,isosceles triangle,top,left
-orange,isosceles triangle,bottom,right/pink,isosceles triangle,top,right
-yellow,isosceles triangle,bottom,left/red,triangle,top,left
-blue,isosceles triangle,bottom,left/blue,isosceles triangle,bottom,left/red,equilateral triangle,bottom,right
-brown,isosceles triangle,bottom,right
-black,isosceles triangle,top,right/green,equilateral triangle,top,left
-red,equilateral triangle,bottom,left/yellow,triangle,top,left/brown,equilateral triangle,top,left
-green,isosceles triangle,top,left/yellow,triangle,top,right
-purple,equilateral triangle,top,left/pink,equilateral triangle,top,left
-pink,triangle,top,right/green,isosceles triangle,top,right/green,triangle,bottom,left
-pink,equilateral triangle,top,left/brown,equilateral triangle,top,left
-orange,triangle,top,right/purple,isosceles triangle,top,right/orange,isosceles triangle,top,left/black,isosceles triangle,bottom,right
-red,isosceles triangle,bottom,left/black,isosceles triangle,bottom,right
-orange,triangle,bottom,right/blue,equilateral triangle,bottom,right
-yellow,isosceles triangle,bottom,right/black,isosceles triangle,top,left
-green,equilateral triangle,bottom,right/red,triangle,top,left/brown,equilateral triangle,top,left
-orange,isosceles triangle,bottom,left
-green,triangle,bottom,left/yellow,isosceles triangle,top,left/black,triangle,top,left/orange,equilateral triangle,top,right
-orange,isosceles triangle,top,right/brown,equilateral triangle,top,left/black,isosceles triangle,top,right/red,triangle,top,left
-red,isosceles triangle,bottom,left/black,equilateral triangle,top,right/pink,isosceles triangle,top,right/purple,triangle,top,left
-pink,triangle,top,right
-blue,isosceles triangle,top,right/green,isosceles triangle,top,left
-brown,equilateral triangle,top,right/brown,triangle,top,right/purple,isosceles triangle,bottom,left
-green,isosceles triangle,bottom,right
-yellow,triangle,bottom,right/green,isosceles triangle,top,right
-blue,triangle,top,left/green,equilateral triangle,bottom,right/green,equilateral triangle,bottom,right
-blue,triangle,top,right/green,triangle,bottom,left/brown,equilateral triangle,top,left
-yellow,isosceles triangle,top,right/purple,isosceles triangle,top,left/orange,isosceles triangle,bottom,right/blue,isosceles triangle,top,right
-blue,triangle,bottom,left/purple,triangle,bottom,right
+black,isosceles triangle,bottom,right/black,equilateral triangle,top,right
+blue,equilateral triangle,top,right
+yellow,isosceles triangle,top,left
+pink,triangle,bottom,right/purple,triangle,bottom,right
+pink,isosceles triangle,bottom,right/blue,equilateral triangle,bottom,left/orange,triangle,top,right
+brown,triangle,bottom,left/brown,triangle,top,right/brown,isosceles triangle,bottom,right
+blue,isosceles triangle,top,right
+pink,equilateral triangle,bottom,left/red,triangle,top,right/brown,isosceles triangle,top,right
+black,triangle,top,left/brown,triangle,top,left/orange,triangle,bottom,right/green,isosceles triangle,top,left
+red,equilateral triangle,top,right/pink,equilateral triangle,bottom,left
+blue,isosceles triangle,top,right/yellow,triangle,bottom,left/purple,triangle,bottom,right
+black,isosceles triangle,bottom,right/yellow,isosceles triangle,bottom,right
+yellow,triangle,bottom,left/yellow,triangle,bottom,left/brown,equilateral triangle,top,left/blue,triangle,top,left
+black,isosceles triangle,top,right/black,triangle,top,right/blue,isosceles triangle,top,left/brown,triangle,top,right
+red,triangle,top,left/blue,triangle,top,left/black,triangle,top,left
+yellow,equilateral triangle,top,right/red,equilateral triangle,top,right/orange,isosceles triangle,bottom,left
+yellow,isosceles triangle,bottom,right/black,equilateral triangle,top,right/green,equilateral triangle,top,left/yellow,isosceles triangle,bottom,left
+orange,equilateral triangle,top,left/red,isosceles triangle,bottom,left/black,equilateral triangle,bottom,left/blue,equilateral triangle,bottom,left
+blue,triangle,bottom,left/blue,triangle,top,left/blue,triangle,top,right/blue,equilateral triangle,bottom,right
+purple,equilateral triangle,top,left/purple,isosceles triangle,top,left/yellow,triangle,top,right/orange,equilateral triangle,top,left
+pink,equilateral triangle,top,left/pink,isosceles triangle,top,left

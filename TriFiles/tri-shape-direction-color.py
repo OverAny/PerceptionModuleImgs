@@ -29,7 +29,7 @@ for i in range(amountToGenerate):
                 text += "an " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR] + " and "
             textGen += colors[colorR]+","+shapes[shapesR]+","+directionsUp[directionsUpR]+","+directionsSide[directionsSideR]+"/"
         else: 
-            text += "a " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR] + "."
+            text += "a " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR]
             textGen += colors[colorR]+","+shapes[shapesR]+","+directionsUp[directionsUpR]+","+directionsSide[directionsSideR]
 
     linesGen.append(textGen)

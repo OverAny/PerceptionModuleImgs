@@ -173,7 +173,7 @@ with open('GeneratedFiles/generated_gen-quad-shape-direction-color.txt') as f:
             for i in range(len(num)):
                 drawNow(num[i], BottomRight[i][0], BottomRight[i][1], "bottomright")
     
-        im.save('GeneratedImages-ShapeDirColor/' + LinesDesc[zz] + '.png', quality=95)
+        im.save('GeneratedImages-ShapeDirColor/' + LinesDesc[zz].replace('\n', '')  + '.png', quality=95)
        
         TopLeft.clear()
         TopRight.clear()

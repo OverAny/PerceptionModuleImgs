@@ -28,9 +28,9 @@ for i in range(amountToGenerate):
             textGen += colors[colorR]+","+shapes[shapesR]+","+directionsUp[directionsUpR]+","+directionsSide[directionsSideR]+"/"
         else: 
             if (colors[colorR] != "orange"):
-                text += "a " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR] + "."
+                text += "a " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR]
             else:
-                text += "an " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR] + "."
+                text += "an " + colors[colorR] + " " + shapes[shapesR] + " in the " + directionsUp[directionsUpR] + " " + directionsSide[directionsSideR]
             textGen += colors[colorR]+","+shapes[shapesR]+","+directionsUp[directionsUpR]+","+directionsSide[directionsSideR]
 
     linesGen.append(textGen)

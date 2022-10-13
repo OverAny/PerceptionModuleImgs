@@ -63,7 +63,7 @@ with open('GeneratedFiles/generated_gen-tri-shape-color.txt') as f:
 
             draw.polygon([(x+randoDist,y+randoDist), (x1+randoDist,y1+randoDist), (x2+randoDist,x2+randoDist)], fill=currentColor)
 
-        im.save('GeneratedImages-ShapeColor/' +str(zz) + ". "+  LinesDesc[zz] + '.png', quality=95)
+        im.save('GeneratedImages-ShapeColor/' +str(zz) + ". "+  LinesDesc[zz].replace('\n', '')  + '.png', quality=95)
         
      
 

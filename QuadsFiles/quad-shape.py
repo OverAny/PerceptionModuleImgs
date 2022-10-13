@@ -14,7 +14,7 @@ for i in range(amountToGenerate):
     text = ""
     textGen = ""
 
-    text += "a " + shapes[shapesR] + "."
+    text += "a " + shapes[shapesR]
     textGen += shapes[shapesR]
             
     linesGen.append(textGen)

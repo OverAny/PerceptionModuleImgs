@@ -1,100 +1,100 @@
-a yellow isosceles triangle.
-a blue isosceles triangle.
-a black isosceles triangle.
-an orange triangle.
-a yellow triangle.
-a blue triangle.
-a black triangle.
-a green equilateral triangle.
-a pink triangle.
-a red triangle.
-a black triangle.
-a green equilateral triangle.
-a pink triangle.
-a green isosceles triangle.
-a red equilateral triangle.
-a pink isosceles triangle.
-a green isosceles triangle.
-an orange triangle.
-a pink isosceles triangle.
-a brown isosceles triangle.
-a purple equilateral triangle.
-a blue isosceles triangle.
-a purple equilateral triangle.
-a red triangle.
-a red isosceles triangle.
-a red triangle.
-a brown triangle.
-a blue equilateral triangle.
-a pink triangle.
-a red triangle.
-a pink equilateral triangle.
-a purple equilateral triangle.
-a blue isosceles triangle.
-a green isosceles triangle.
-a purple equilateral triangle.
-a red equilateral triangle.
-a blue equilateral triangle.
-a purple isosceles triangle.
-a blue triangle.
-an orange isosceles triangle.
-a purple equilateral triangle.
-a red isosceles triangle.
-a black triangle.
-a red triangle.
-a yellow isosceles triangle.
-a brown equilateral triangle.
-an orange isosceles triangle.
-a black isosceles triangle.
-an orange equilateral triangle.
-a brown triangle.
-an orange triangle.
-a brown triangle.
-a purple isosceles triangle.
-a brown triangle.
-a yellow isosceles triangle.
-a brown triangle.
-a blue triangle.
-a yellow isosceles triangle.
-a yellow triangle.
-a black triangle.
-a blue triangle.
-a brown triangle.
-a blue triangle.
-a purple isosceles triangle.
-a pink triangle.
-a purple equilateral triangle.
-a red equilateral triangle.
-a blue equilateral triangle.
-a green equilateral triangle.
-a yellow triangle.
-a blue triangle.
-a purple isosceles triangle.
-a red equilateral triangle.
-a red equilateral triangle.
-a brown triangle.
-a blue triangle.
-a yellow isosceles triangle.
-a blue triangle.
-a yellow triangle.
-a red triangle.
-a black equilateral triangle.
-a yellow equilateral triangle.
-a blue equilateral triangle.
-a black equilateral triangle.
-a yellow triangle.
-a red triangle.
-a black isosceles triangle.
-a brown equilateral triangle.
-a yellow triangle.
-a red isosceles triangle.
-a black equilateral triangle.
-a blue triangle.
-an orange equilateral triangle.
-a green triangle.
-a black equilateral triangle.
-a brown triangle.
-a green equilateral triangle.
-a pink triangle.
-a purple equilateral triangle.
-a black isosceles triangle.
+a red isosceles triangle
+a blue equilateral triangle
+an orange triangle
+a brown isosceles triangle
+a brown isosceles triangle
+a pink equilateral triangle
+a yellow isosceles triangle
+a red equilateral triangle
+a pink triangle
+a brown triangle
+a green triangle
+a purple triangle
+a pink triangle
+a brown equilateral triangle
+a purple triangle
+a pink equilateral triangle
+a blue isosceles triangle
+an orange triangle
+a purple equilateral triangle
+a purple equilateral triangle
+a pink isosceles triangle
+a blue triangle
+an orange isosceles triangle
+a green isosceles triangle
+a green triangle
+a brown triangle
+a blue triangle
+a red triangle
+a purple isosceles triangle
+an orange triangle
+a purple equilateral triangle
+a black equilateral triangle
+a green triangle
+an orange equilateral triangle
+a pink equilateral triangle
+a purple isosceles triangle
+a yellow triangle
+a blue triangle
+a yellow isosceles triangle
+a brown triangle
+a brown equilateral triangle
+an orange equilateral triangle
+a green triangle
+a blue isosceles triangle
+a red equilateral triangle
+a purple isosceles triangle
+a purple isosceles triangle
+a yellow isosceles triangle
+a blue triangle
+a red triangle
+a green isosceles triangle
+a yellow triangle
+a black triangle
+a black triangle
+a blue equilateral triangle
+an orange triangle
+a black equilateral triangle
+a red isosceles triangle
+a green isosceles triangle
+an orange triangle
+a pink triangle
+a purple equilateral triangle
+a purple equilateral triangle
+a brown triangle
+a blue equilateral triangle
+an orange triangle
+a brown triangle
+a yellow equilateral triangle
+a brown isosceles triangle
+a blue triangle
+a brown isosceles triangle
+a green isosceles triangle
+an orange equilateral triangle
+a yellow triangle
+a yellow equilateral triangle
+a brown triangle
+a pink isosceles triangle
+a red isosceles triangle
+a black equilateral triangle
+a blue equilateral triangle
+a red isosceles triangle
+a red isosceles triangle
+a yellow isosceles triangle
+a brown isosceles triangle
+a black triangle
+a yellow triangle
+a black triangle
+a brown triangle
+a brown triangle
+a purple isosceles triangle
+a blue equilateral triangle
+an orange isosceles triangle
+a purple triangle
+a yellow triangle
+a black equilateral triangle
+a brown isosceles triangle
+a red equilateral triangle
+a black isosceles triangle
+a brown equilateral triangle
+a brown equilateral triangle

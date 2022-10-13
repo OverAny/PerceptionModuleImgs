@@ -77,7 +77,7 @@ with open('GeneratedFiles/generated_gen-quad-shape-color.txt') as f:
         if shape == "trapezoid":
             draw.polygon([(x+randoDist+randoSize,y+randoDist),(x+randoSize+randoDist+100,y+randoDist),(x+randoSize+randoDist+200,y+randoDist+100), (x+randoDist,y+randoDist+100)], fill=currentColor, outline=currentColor) 
 
-        im.save('GeneratedImages-ShapeColor/' +str(zz) + ". "+  LinesDesc[zz] + '.png', quality=95)
+        im.save('GeneratedImages-ShapeColor/' +str(zz) + ". "+  LinesDesc[zz].replace('\n', '')  + '.png', quality=95)
         
      
 

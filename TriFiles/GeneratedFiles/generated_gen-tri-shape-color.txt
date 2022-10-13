@@ -1,100 +1,100 @@
-yellow,isosceles triangle
-blue,isosceles triangle
-black,isosceles triangle
+red,isosceles triangle
+blue,equilateral triangle
 orange,triangle
-yellow,triangle
-blue,triangle
-black,triangle
-green,equilateral triangle
-pink,triangle
-red,triangle
-black,triangle
-green,equilateral triangle
-pink,triangle
-green,isosceles triangle
-red,equilateral triangle
-pink,isosceles triangle
-green,isosceles triangle
-orange,triangle
-pink,isosceles triangle
 brown,isosceles triangle
-purple,equilateral triangle
-blue,isosceles triangle
-purple,equilateral triangle
-red,triangle
-red,isosceles triangle
-red,triangle
-brown,triangle
-blue,equilateral triangle
-pink,triangle
-red,triangle
+brown,isosceles triangle
 pink,equilateral triangle
-purple,equilateral triangle
-blue,isosceles triangle
-green,isosceles triangle
-purple,equilateral triangle
+yellow,isosceles triangle
 red,equilateral triangle
-blue,equilateral triangle
-purple,isosceles triangle
-blue,triangle
-orange,isosceles triangle
-purple,equilateral triangle
-red,isosceles triangle
-black,triangle
-red,triangle
-yellow,isosceles triangle
-brown,equilateral triangle
-orange,isosceles triangle
-black,isosceles triangle
-orange,equilateral triangle
-brown,triangle
-orange,triangle
-brown,triangle
-purple,isosceles triangle
-brown,triangle
-yellow,isosceles triangle
-brown,triangle
-blue,triangle
-yellow,isosceles triangle
-yellow,triangle
-black,triangle
-blue,triangle
-brown,triangle
-blue,triangle
-purple,isosceles triangle
 pink,triangle
+brown,triangle
+green,triangle
+purple,triangle
+pink,triangle
+brown,equilateral triangle
+purple,triangle
+pink,equilateral triangle
+blue,isosceles triangle
+orange,triangle
 purple,equilateral triangle
-red,equilateral triangle
-blue,equilateral triangle
-green,equilateral triangle
-yellow,triangle
+purple,equilateral triangle
+pink,isosceles triangle
 blue,triangle
-purple,isosceles triangle
-red,equilateral triangle
-red,equilateral triangle
+orange,isosceles triangle
+green,isosceles triangle
+green,triangle
 brown,triangle
 blue,triangle
+red,triangle
+purple,isosceles triangle
+orange,triangle
+purple,equilateral triangle
+black,equilateral triangle
+green,triangle
+orange,equilateral triangle
+pink,equilateral triangle
+purple,isosceles triangle
+yellow,triangle
+blue,triangle
 yellow,isosceles triangle
-blue,triangle
-yellow,triangle
-red,triangle
-black,equilateral triangle
-yellow,equilateral triangle
-blue,equilateral triangle
-black,equilateral triangle
-yellow,triangle
-red,triangle
-black,isosceles triangle
+brown,triangle
 brown,equilateral triangle
-yellow,triangle
-red,isosceles triangle
-black,equilateral triangle
-blue,triangle
 orange,equilateral triangle
 green,triangle
+blue,isosceles triangle
+red,equilateral triangle
+purple,isosceles triangle
+purple,isosceles triangle
+yellow,isosceles triangle
+blue,triangle
+red,triangle
+green,isosceles triangle
+yellow,triangle
+black,triangle
+black,triangle
+blue,equilateral triangle
+orange,triangle
 black,equilateral triangle
-brown,triangle
-green,equilateral triangle
+red,isosceles triangle
+green,isosceles triangle
+orange,triangle
 pink,triangle
 purple,equilateral triangle
+purple,equilateral triangle
+brown,triangle
+blue,equilateral triangle
+orange,triangle
+brown,triangle
+yellow,equilateral triangle
+brown,isosceles triangle
+blue,triangle
+brown,isosceles triangle
+green,isosceles triangle
+orange,equilateral triangle
+yellow,triangle
+yellow,equilateral triangle
+brown,triangle
+pink,isosceles triangle
+red,isosceles triangle
+black,equilateral triangle
+blue,equilateral triangle
+red,isosceles triangle
+red,isosceles triangle
+yellow,isosceles triangle
+brown,isosceles triangle
+black,triangle
+yellow,triangle
+black,triangle
+brown,triangle
+brown,triangle
+purple,isosceles triangle
+blue,equilateral triangle
+orange,isosceles triangle
+purple,triangle
+yellow,triangle
+black,equilateral triangle
+brown,isosceles triangle
+red,equilateral triangle
 black,isosceles triangle
+brown,equilateral triangle
+brown,equilateral triangle

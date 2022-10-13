@@ -17,9 +17,9 @@ for i in range(amountToGenerate):
     textGen = ""
 
     if (colors[colorR] != "orange"):
-        text += "a " + colors[colorR] + " " + shapes[shapesR] + "."
+        text += "a " + colors[colorR] + " " + shapes[shapesR]
     else:
-        text += "an " + colors[colorR] + " " + shapes[shapesR] + "."
+        text += "an " + colors[colorR] + " " + shapes[shapesR]
     textGen += colors[colorR]+","+shapes[shapesR]
             
     linesGen.append(textGen)
